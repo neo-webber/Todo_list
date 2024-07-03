@@ -1,0 +1,28 @@
+.todoitem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.todoitem-container {
+    width: 25px;
+    height: 25px;
+    display: flex;
+
+}
+.todoitem-text{
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+
+.todocross img {
+    width: 17px;
+    height: 17px;
+    cursor: pointer;
+}
+.line-through{
+    color:  #ADADAD ;
+    
+}
